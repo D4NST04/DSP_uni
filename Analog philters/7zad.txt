@@ -1,0 +1,18 @@
+Sekcje Sallen-Key (2 rzędu):
+Sekcja 1: R1 = 248.7 Ω, R2 = 138.0 Ω, C1 = C2 = 10 nF
+Sekcja 2: R1 = 248.7 Ω, R2 = 199.4 Ω, C1 = C2 = 10 nF
+Sekcja 3: R1 = 248.7 Ω, R2 = 558.8 Ω, C1 = C2 = 10 nF
+
+Sekcja 1-rzędowa (RC):
+R = 62.2 Ω, C = 10 nF
+
+
+Z typoszeregu E24:
+
+Sekcje Sallen-Key (2 rzędu):
+Sekcja 1: R1 = 240 Ω, R2 = 130 Ω, C1 = C2 = 10 nF
+Sekcja 2: R1 = 240 Ω, R2 = 220 Ω, C1 = C2 = 10 nF
+Sekcja 3: R1 = 240 Ω, R2 = 560 Ω, C1 = C2 = 10 nF
+
+Sekcja 1-rzędowa (RC):
+R = 62 Ω, C = 10 nF
